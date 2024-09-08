@@ -1,0 +1,94 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center; /* Centra horizontalmente */
+  justify-content: flex-start; /* Evita la alineación vertical */
+  text-align: center;
+  padding-top: 50px; /* Puedes ajustar este padding si necesitas más espacio desde arriba */
+}
+
+h1 {
+  font-size: 2.5em;
+  margin-bottom: 20px;
+}
+
+.form-container {
+  padding: 40px;
+  border: 1px solid #ccc;
+  border-radius: 10px;
+  width: 350px;
+  margin-bottom: 20px;
+  background-color: #f9f9f9;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.form-container label {
+  font-size: 1em;
+  margin-bottom: 8px;
+  display: block;
+}
+
+.form-container input[type="date"],
+.form-container input[type="text"],
+.form-container input[type="number"] {
+  width: 100%;
+  padding: 8px;
+  margin: 10px 0;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  font-size: 1em;
+}
+
+.form-container input[type="checkbox"] {
+  margin-right: 10px;
+}
+
+.form-container button {
+  width: 100%;
+  padding: 10px;
+  background-color: #2A57BC;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  font-size: 1em;
+  cursor: pointer;
+  transition: background-color 0.3s;
+}
+
+.form-container button:hover {
+  background-color: #456ac0;
+}
+
+.table {
+  width: 60%;
+  margin: 20px auto; 
+  border-collapse: collapse;
+  font-size: 1em;
+}
+
+.table th,
+.table td {
+  border: 1px solid #ddd;
+  padding: 22px;
+  text-align: center;
+}
+
+.table th {
+  background-color: #797d80;
+  color: white;
+  font-weight: bold;
+}
+
+.table tr:nth-child(even) {
+  background-color: #f2f2f2;
+}
+
+.table tr:hover {
+  background-color: #ddd;
+}
+
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background-color: #f0f0f0;
+}
