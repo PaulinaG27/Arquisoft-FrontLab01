@@ -1,0 +1,68 @@
+[
+    {
+        "origin": "New York", 
+        "destination": "Paris", 
+        "date": "2024-09-03", 
+        "price": 450
+    },
+    {
+        "origin": "Los Angeles", 
+        "destination": "Tokyo", 
+        "date": "2024-09-10", 
+        "price": 800
+    },
+    {
+        "origin": "London", 
+        "destination": "Rome", 
+        "date": "2024-09-15", 
+        "price": 300
+    },
+    {
+        "origin": "Berlin", 
+        "destination": "New York", 
+        "date": "2024-09-18", 
+        "price": 600
+    },
+    {
+        "origin": "Sydney", 
+        "destination": "Dubai", 
+        "date": "2024-09-21", 
+        "price": 700
+    },
+    {
+        "origin": "Toronto", 
+        "destination": "Miami", 
+        "date": "2024-09-25", 
+        "price": 250
+    },
+    {
+        "origin": "Mexico City", 
+        "destination": "Buenos Aires", 
+        "date": "2024-09-28", 
+        "price": 550
+    },
+    {
+        "origin": "Mumbai", 
+        "destination": "Cape Town", 
+        "date": "2024-10-02", 
+        "price": 900
+    },
+    {
+        "origin": "Moscow", 
+        "destination": "Istanbul", 
+        "date": "2024-10-05", 
+        "price": 400
+    },
+    {
+        "origin": "Rio de Janeiro", 
+        "destination": "Lima", 
+        "date": "2024-10-08", 
+        "price": 350
+    },
+    {
+        "origin": "Singapore", 
+        "destination": "Bangkok", 
+        "date": "2024-10-12", 
+        "price": 450
+    }
+]
